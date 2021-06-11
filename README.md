@@ -1,6 +1,4 @@
-### Stats
-
-![Metrics](https://metrics.lecoq.io/necropola)
+### Status
 
 <!--
 **necropola/necropola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
